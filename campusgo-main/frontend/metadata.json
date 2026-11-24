@@ -1,0 +1,10 @@
+{
+  "name": "E-Parking Pangkalpinang",
+  "description": "Sistem Langganan dan Lokasi Parkir Digital Kota Pangkalpinang dengan QR Code, OpenStreetMap, dan Express MySQL.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
